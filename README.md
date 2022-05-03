@@ -23,4 +23,4 @@ Já o modelo ‘baseline’, Boosting de Decision Tree, teve uma acurácia de 94
 
 Os hiperparâmetros escolhidos para nosso SVM foram ‘C’ igual a 1 e ‘gamma’ igual a 1, pois foram os melhores parâmetros encontrados após a realização de uma ‘grid search’ (ao analisar os ’scores’, percebemos que as combinações tiveram o mesmo desempenho, então utilizamos os selecionados pela função).
 
-Quando submetido o código no Kaggle: a posição, ao realizar as previsões para o conjunto de testes no arquivo ’test.csv’, foi 918 com precisão de 97,86% no ranking da competição ‘Digit Recognizer’:<a href="https://www.kaggle.com/c/digit-recognizer/leaderboard">Flex Grid</a>
+Quando submetido o código no Kaggle: a posição, ao realizar as previsões para o conjunto de testes no arquivo ’test.csv’, foi 918 com precisão de 97,86% no ranking da competição ‘Digit Recognizer’: https://www.kaggle.com/c/digit-recognizer/leaderboard
