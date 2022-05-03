@@ -1,5 +1,4 @@
-# MNIST-Digit-Recognizer-Kaggle
-Classifier for identifying digits from a dataset of ten thousands of handwritten images.
+## MNIST-Digit-Recognizer-Kaggle
 
 # INTRODUÇÃO
 O MNIST (“Modified National Institute of Standart and Technology”) é uma competição do Kaggle de introdução perfeita para técnicas como redes neurais usando um conjunto de dados clássico de fato “hello word”da visão computacional. Ele teve seu lançamento em 1999 e trata-se de um conjunto de dados clássico de imagens manuscritas que serviu de base para algoritmos de classificação de benchmarking. À medida que surgem novas técnicas de aprendizado de máquina, o MNIST é um ótimo recurso confiável para pesquisadores e alunos.
@@ -24,4 +23,4 @@ Já o modelo ‘baseline’, Boosting de Decision Tree, teve uma acurácia de 94
 
 Os hiperparâmetros escolhidos para nosso SVM foram ‘C’ igual a 1 e ‘gamma’ igual a 1, pois foram os melhores parâmetros encontrados após a realização de uma ‘grid search’ (ao analisar os ’scores’, percebemos que as combinações tiveram o mesmo desempenho, então utilizamos os selecionados pela função).
 
-Quando submetido o código no Kaggle: a posição, ao realizar as previsões para o conjunto de testes no arquivo ’test.csv’, foi 918 com precisão de 97,86% no ranking da competição ‘Digit Recognizer’: ![descrição da imagem](https://www.kaggle.com/c/digit-recognizer/leaderboard)
+Quando submetido o código no Kaggle: a posição, ao realizar as previsões para o conjunto de testes no arquivo ’test.csv’, foi 918 com precisão de 97,86% no ranking da competição ‘Digit Recognizer’:<a href="https://www.kaggle.com/c/digit-recognizer/leaderboard">Flex Grid</a>
